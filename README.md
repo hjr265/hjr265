@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[ [Blog](https://hjr265.me/blog/), [Projects](https://hjr265.me/projects/), [Timeline](https://hjr265.me/timeline/) ]
+[ [Blog](https://hjr265.me/blog/), [Projects](https://hjr265.me/projects/), [Open Source](https://hjr265.me/open-source/), [Experience](https://hjr265.me/experience/), [Publications](https://hjr265.me/publications/), [Timeline](https://hjr265.me/timeline/) ]
 
 <!--
 **hjr265/hjr265** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
