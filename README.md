@@ -10,12 +10,12 @@ I like free (as in freedom) software, and [I enjoy making them](https://hjr265.m
 
 Elsewhere:
 
-- [fosstodon.org/@hjr265](https://fosstodon.org/@hjr265)
-- [linkedin.com/in/hjr265](https://www.linkedin.com/in/hjr265/)
-- [toph.co/u/hjr265](https://toph.co/u/hjr265)
-- [toptal.com/resume/mahmud-ridwan](https://www.toptal.com/resume/mahmud-ridwan/N8D73N/worlds-top-talent) (referral)
-- [twitter.com/hjr265](https://twitter.com/hjr265)
-- [upwork.com/…/users/~01551cbdc32d9260be](https://www.upwork.com/o/profiles/users/~01551cbdc32d9260be/)
+- [**fosstodon.org**/@hjr265](https://fosstodon.org/@hjr265)
+- [**linkedin.com**/in/hjr265](https://www.linkedin.com/in/hjr265/)
+- [**toph.co**/u/hjr265](https://toph.co/u/hjr265)
+- [**toptal.com**/resume/mahmud-ridwan](https://www.toptal.com/resume/mahmud-ridwan/N8D73N/worlds-top-talent) (referral)
+- [**twitter.com**/hjr265](https://twitter.com/hjr265)
+- [**upwork.com**/…/users/~01551cbdc32d9260be](https://www.upwork.com/o/profiles/users/~01551cbdc32d9260be/)
 
 <!--
 **hjr265/hjr265** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
