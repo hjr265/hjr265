@@ -1,12 +1,16 @@
-[ [Blog](https://hjr265.me/blog/), [Projects](https://hjr265.me/projects/), [Open Source](https://hjr265.me/open-source/), [Experience](https://hjr265.me/experience/), [Publications](https://hjr265.me/publications/), [Timeline](https://hjr265.me/timeline/) ]
+[ [Blog](https://hjr265.me/blog/), [Projects](https://hjr265.me/projects/), [Open Source](https://hjr265.me/open-source/), [Experience](https://hjr265.me/experience/), [Publications](https://hjr265.me/publications/), [Notes](https://hjr265.me/notes/), [Timeline](https://hjr265.me/timeline/), [Contact](https://hjr265.me/contact/) ]
 
-Hi, I am Mahmud Ridwan.
+Hi, I’m Mahmud Ridwan, a software engineer based in Dhaka, Bangladesh.
 
-I started [my career](https://hjr265.me/experience/) in the industry as a remote freelance software developer in 2010. I completed my B. Sc. in Computer Science at the end of 2012. During my years in academia, I fell in love with competitive programming.
+I began [my career](https://hjr265.me/experience/) in 2010 as a software developer. I earned my B.Sc. in Computer Science in late 2012, during which I developed a passion for competitive programming.
 
-I started [Furqan Software](https://furqansoftware.com/) in 2015 and turned my pet project into [Toph](https://toph.co/). Today, Toph is the leading competitive programming platform in Bangladesh.
+In 2015, I founded [Furqan Software](https://furqansoftware.com/) and transformed my pet project into [Toph](https://toph.co/), which has since become the leading competitive programming platform in Bangladesh.
 
-I like free (as in freedom) software, and [I enjoy making them](https://hjr265.me/open-source/).
+Additionally, I work through networks like Toptal as a freelance software engineer, allowing me to collaborate on diverse projects.
+
+I have a strong affinity for free (as in freedom) software and take great pleasure in creating [open-source software](https://hjr265.me/open-source/).
+
+You can check what I’m currently working on and what matters to me on my [now page](https://hjr265.me/now/).
 
 Elsewhere:
 
